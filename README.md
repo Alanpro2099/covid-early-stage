@@ -1,6 +1,5 @@
 # Covid cases and ratios world wide in early 2021
-## Visit and interact with this webpage dashboard by clicking my GitHub page link:
-https://alanpro2099.github.io/covid-early-stage/
+## Visit and interact with this webpage dashboard by clicking my GitHub page link: https://alanpro2099.github.io/covid-early-stage/
 
 This webpage is focusing on the covid cases worldwide. Two datasets have been explored. The first one is a world population dataset with polygon geometry information which is used as a tileset for Mapbox application. Then a monochrome light style is created, and a layer is added to it by using this resource. The second dataset is a current total covid cases for individual country. Because it only has a point geometry information, it is mainly used for data analysis combined with the first dataset together to generate a double axes bar chart.
 
